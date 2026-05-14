@@ -4,7 +4,28 @@ Data analysis project using SQL and Power BI
 - MYSQL - Database creation and querying
 - MYSQL - Writing and running SQL
 - Power BI data visualizations and DAX measures
--
+
+## Business Questions
+
+**Sales Performance**
+- What is the total revenue generated?
+- Which product category generates the most sales?
+- What is the average order vaule?
+
+**Customer Analysis*
+- Which countries have the most customers?
+- Who are the highest value customers?
+- How many guest orders were placed?
+
+**Product Analysis**
+- Which products are most frequently ordered?
+- What is the breakdown of discounted vs full priced orders?
+- Which orders fall into High, Medium or Low value tiers?
+
+**Time Analysis**
+- How are sales trending month over month?
+- Which months had the highest revenue?
+  
 ## SQL Concepts
 - SELECT
 - JOINS (INNER JOIN, LEFT JOIN)
