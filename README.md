@@ -12,7 +12,7 @@ Data analysis project using SQL and Power BI
 - Which product category generates the most sales?
 - What is the average order vaule?
 
-**Customer Analysis*
+**Customer Analysis**
 - Which countries have the most customers?
 - Who are the highest value customers?
 - How many guest orders were placed?
