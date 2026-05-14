@@ -1,6 +1,6 @@
 ## Retail_Store_Project
 Data analysis project using SQL and Power BI 
-#Tools Used 
+## Tools Used 
 - MYSQL - Database creation and querying
 - MYSQL - Writing and running SQL
 - Power BI data visualizations and DAX measures
